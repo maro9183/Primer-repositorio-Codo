@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+
+#padre{
+      width: 95%;
+      height: 900px; 
+      background-color: bisque;
+      display: flex;
+      
+      flex-wrap: nowrap;
+      justify-content: space-evenly;
+      align-items: center;
+      
+    
+}
+
+#div1{
+    width: 80px;
+    height: 80px;
+    background-color: brown;
+    
+  
+
+}
+
+#div2{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(171, 218, 42);
+    
+   
+   
+}
+
+#div3{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(241, 65, 65);
+   
+
+}
+
+#div4{
+    width: 80px;
+    height: 80px;
+    background-color: darkmagenta;
+
+
+}
+
+#div5{
+    width: 80px;
+    height: 80px;
+    background-color: darkmagenta;
+    position: fixed;
+  
+
+}
